@@ -1,0 +1,7 @@
+# local env files
+.env*
+.DS_Store
+
+# misc
+.vscode
+/folder_name
